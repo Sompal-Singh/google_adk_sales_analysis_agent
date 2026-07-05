@@ -5,4 +5,4 @@ Read Me
 
 - Architecture: The project solution uses multi agent workflow to sequentially perform complex statistical analysis.
 
-- The Build: Multiagent system has been made using python, jupyter notebook, Google ADK 2.0
+- The Build: Multiagent system has been made using python, jupyter notebook, Google ADK 2.0, Gemini API Key for Gemini 3.5 flash
